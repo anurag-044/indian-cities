@@ -1,6 +1,6 @@
-{
+
 	
-"city":[
+[
 	"Achalpur",
   "Achhnera",
   "Adalaj",
