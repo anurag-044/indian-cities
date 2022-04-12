@@ -1,8 +1,9 @@
-{
-data:
+
 	
 [
-	city: "Achalpur",
+	{
+"city":
+	"Achalpur",
   "Achhnera",
   "Adalaj",
   "Adilabad",
@@ -1219,5 +1220,6 @@ data:
   "Zira",
   "Zirakpur",
   "Zunheboto",
-]
-}
+	}
+		]
+
