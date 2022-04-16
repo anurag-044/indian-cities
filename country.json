@@ -1,0 +1,14 @@
+ {
+            country: {
+                India: [
+                    "Delhi",
+                    "Mumbai",
+                    "Hyderabad",
+                    "Ahmedabad",
+                    "Chennai",
+                    "Kerala",
+                    "Goa",
+                ],
+                others: ["Canda", "France", "Pairs", "New York"],
+            },
+        };
