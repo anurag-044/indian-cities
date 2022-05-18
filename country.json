@@ -1,6 +1,6 @@
  {
-            country: [
-             {India: 
+            "country": [
+             {"India": 
                     "Delhi",
                     "Mumbai",
                     "Hyderabad",
@@ -9,6 +9,6 @@
                     "Kerala",
                     "Goa",
              },
-             {others: "Canda", "France", "Pairs", "New York"}
+             {"others": "Canda", "France", "Pairs", "New York"}
             
         ]};
